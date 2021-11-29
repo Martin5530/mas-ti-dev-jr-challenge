@@ -7,7 +7,7 @@ You have 72 hours to submit your code. Read the next lines to know about the req
 
 ## Frontend developer challenge's instructions
 ##### Clone the repository using the following url 
-`https://{your-username-here}@bitbucket.org/MAS_development/crud_dev_jr.git`
+`https://github.com/bytestriker/mas-ti-dev-jr-challenge.git`
 > Using ReactJS or AngularJS you must create SPA with a simple form registration.
 > This is the URL of the API [https://micros.masservicios-ti.com.mx](#https://micros.masservicios-ti.com.mx)
 > This is the main endpoint of the API `/api/customers`
@@ -16,7 +16,7 @@ You have 72 hours to submit your code. Read the next lines to know about the req
 
 ## Backend developer challenge's instructions
 ##### Clone the repository using the following url 
-``https://{your-username-here}@bitbucket.org/MAS_development/api_dev_jr.git``
+``https://github.com/bytestriker/mas-ti-dev-jr-challenge.git``
 
 > Using Laravel you must create API for a simple form registration.
 > Attached to this message you'll found an (dot) JSON file EvaluacionProgramadoresFrontEndJunior.postman_collection.json, using POSTMAN to open it (google it if necessary), the documentation wil guide you through the actions that your API needs to perform. 
